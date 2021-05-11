@@ -1,6 +1,6 @@
 # MyReads Book Tracking App
 
-![App Screenshot](app-screenshot.PNG)
+![app-screenshot](https://user-images.githubusercontent.com/45804430/117754564-d9543380-b21a-11eb-8745-f7b59a65d3a0.png)
 
 This project is a simple single-page application that allows users to maintain a list of some of their favorite books. Books can be categorized by the user across three "shelves" - have read, want to read, or are currently reading. The application maintains shelf storage both locally and remotely, and also allows users to search for new books from the Udacity Books API. Once a book is found on the search screen, users can add them to the desired shelf.
 
